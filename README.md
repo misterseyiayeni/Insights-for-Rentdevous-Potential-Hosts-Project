@@ -47,10 +47,10 @@ Options for scaling and extension of the solution are:
   
 - Regulatory Compliance Monitoring: Create tools to help hosts stay compliant with local housing laws and regulations, potentially integrating alerts and updates on legal and regulatory policy changes directly into the platform.
 
-Data source: Kaggle.
-
 - Integration with a Large Language Model (LLM) for dynamic insights.
 
 - Integration of rental boards for dissemination of valuable information.
 
 - Improve the map feature to expand into imaging of the listings.
+
+Data source: Kaggle.
