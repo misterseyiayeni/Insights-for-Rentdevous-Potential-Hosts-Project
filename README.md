@@ -2,10 +2,28 @@
 
 ![image](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/679dfdd3-95d6-4618-8670-a484893052b6)
 
+Definition: RentDevous hosts face challenges in optimizing their listings due to a lack of comprehensive market insights
+
+Background: The competitive landscape of RentDevous hosting and the challenges in optimising listings for higher revenue and guest satisfaction have been a major concern for hosts.
+
+Objective: To enable RentDevous hosts to make data-driven decisions to enhance their listings' competitiveness and profitability through targeted analytics and insights.
+
+![image](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/288cef7d-0a58-4c7f-b683-1c146cc70efd)
+
+![image](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/b67d3d24-bc52-4686-87b7-d5557172eb99)
+
+Tech stack: MongoDB, Streamlit, Python, PostgreSQL.
+
+ERD:
+
+![image](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/1341ed1d-c327-40f2-beee-90532f5bb2c9)
+
+Model Breakdown:
+
+![image](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/0e90e1f8-8da1-49c7-8715-4898fe8df612)
+
 
 This system addresses the growing trend of home rental arbitrage, where entrepreneurs rent properties to sublet on the rental site. Tools focus on identifying profitable locations, optimizing pricing, and maximizing occupancy for arbitrageurs.
-
-![Demo_1](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/0ccc90a1-29ea-46db-93c9-27f346547831)
 
 ![Demo_2](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/af9b57c0-253d-412e-9cfe-7da2ed5f190a)
 
