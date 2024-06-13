@@ -29,6 +29,9 @@ This system addresses the growing trend of home rental arbitrage, where entrepre
 
 ![Demo_3](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/429335c5-c976-41b4-9a68-bcd454d48b20)
 
+![Demo_7](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/397b89bc-9f78-424d-920c-1dad3da54cdd)
+
+
 ![Demo_4](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/b401be58-3ae9-4063-b8ae-debd8d24d3a0)
 
 ![Demo_5](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/35de1c13-0e76-4ad5-b665-d81af7db2f7a)
