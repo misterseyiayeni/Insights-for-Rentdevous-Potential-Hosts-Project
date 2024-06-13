@@ -50,3 +50,5 @@ Options for scaling and extension of the solution are:
 - Integration with a Large Language Model (LLM) for dynamic insights.
 
 - Integration of rental boards for dissemination of valuable information.
+
+- Improve the map feature to expand into images of the listings.
