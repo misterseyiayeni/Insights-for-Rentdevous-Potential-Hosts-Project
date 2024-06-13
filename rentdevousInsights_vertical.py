@@ -244,20 +244,6 @@ if selected == "Dev Stack/Team":
                  ''')
     st.subheader('We present the :rainbow[Group 5] Team!', divider='rainbow')
     # Using columns for side-by-side display
-    # For Isha and Syed ......
-    col1, col2 = st.columns(2)
-    with col1:
-        st.image("images/isha_dhumal.png", caption="Isha Dhumal")
-    with col2:
-        st.image("images/syed_faiz_hussain.jpg", caption="Syed Faiz Hussain")
-    # For Seyi and Murtajiz...
-    col1, col2 = st.columns(2)
-    with col1:
-        st.image("images/seyi_ayeni.jpg", caption="Seyi Ayeni")
-    with col2:
-        st.image("images/murtajiz_abbas_naqvi.png", caption="Murtajiz Abbas Naqvi")
-    # For Sam ...
-    st.image("images/sam_kadouh.png", caption="Sam Kadouh")
     st.sidebar.caption("APAN 5400 Project Solution by Group 5")
     st.sidebar.image("images/logo.svg", width=220)
 
