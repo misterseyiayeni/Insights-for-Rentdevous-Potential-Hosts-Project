@@ -37,6 +37,17 @@ This system addresses the growing trend of home rental arbitrage, where entrepre
 
 ![Demo_6](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/32328a39-0a9f-48ac-b6b2-c5dd66c952b0)
 
+![Demo_8](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/abdd320e-f581-45e2-bd3e-bb963de1d3c5)
+
+![Demo_9](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/3c6480d8-882c-417d-a3de-d72cae816bd5)
+
+![Demo_10](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/d57fc368-5174-4939-bcc8-23eab17b7d3e)
+
+![Demo_11](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/3c95e9d2-d720-495a-a7a1-aaf23fed0be2)
+
+![Demo_12](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/e3e5bae5-e4d4-4e1a-b809-85eae8a1ba09)
+
+
 Options for scaling and extension of the solution are:
 
 - Geographic Expansion: With data available for 31 cities, the project can be extended to analyze regional trends, economic impacts, and market behaviors across different urban environments. This would allow for comparative analysis and more generalized insights into RentDevous' operations.
