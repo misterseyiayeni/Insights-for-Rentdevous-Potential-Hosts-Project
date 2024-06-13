@@ -1,4 +1,4 @@
-# RentDevous House With Us!
+# RentDevous (House With Us)!
 
 ![image](https://github.com/misterseyiayeni/Insights-for-Rentdevous-Potential-Hosts-Project/assets/125358861/679dfdd3-95d6-4618-8670-a484893052b6)
 
@@ -46,6 +46,8 @@ Options for scaling and extension of the solution are:
 - Deployment of NLP for Enhanced Search Functionality: Apply natural language processing (NLP) techniques to improve search functionality and semantic understanding of user queries, making the platform more intuitive.
   
 - Regulatory Compliance Monitoring: Create tools to help hosts stay compliant with local housing laws and regulations, potentially integrating alerts and updates on legal and regulatory policy changes directly into the platform.
+
+Data source: Kaggle.
 
 - Integration with a Large Language Model (LLM) for dynamic insights.
 
