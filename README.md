@@ -51,4 +51,4 @@ Options for scaling and extension of the solution are:
 
 - Integration of rental boards for dissemination of valuable information.
 
-- Improve the map feature to expand into images of the listings.
+- Improve the map feature to expand into imaging of the listings.
